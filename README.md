@@ -125,8 +125,9 @@ Typ testów:
 - testy dymne
 - testy eksploracyjne
 
-## 4.2. Wykorzystane techniki projektowania testów oraz narzędzia • Techniki czarnoskrzynkowe
+## 4.2. Wykorzystane techniki projektowania testów oraz narzędzia
 
+- Techniki czarnoskrzynkowe
 - Techniki oparte na doświadczeniu
 
 Narzędzia:
